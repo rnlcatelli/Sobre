@@ -18,9 +18,7 @@ Procuro uma oportunidade para ganhar experiência na área.
 ---
 
 ## 🌟 Outros Interesses
-Tenho experiência com impresssoras 3D
+Tenho experiência com impressão 3D
 📸 **Instagram**: www.instagram.com/moldare.caibi
 
 ---
-
-![Animação de Bem-Vindo](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
