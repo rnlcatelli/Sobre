@@ -22,5 +22,5 @@ Tenho experiência com impresssoras 3D
 📸 **Instagram**: www.instagram.com/moldare.caibi
 
 ---
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=radical)
 
+![Animação de Bem-Vindo](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
