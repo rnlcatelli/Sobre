@@ -10,7 +10,7 @@ Procuro uma oportunidade para ganhar experiência na área de tecnologia e desen
 
 ---
 
-## 🖥️ Tecnologias e Linguagens  
+## 🖥️ Tecnologias e Ferramentas  
 - **Linguagens**: JavaScript, Java, C, C++  
 - **Ferramentas e Tecnologias**: Figma, impressão 3D  
 
@@ -18,13 +18,11 @@ Procuro uma oportunidade para ganhar experiência na área de tecnologia e desen
 
 ## 📫 Contato  
 - 📧 **Email**: [rian2locatelli@gmail.com](mailto:rian2locatelli@gmail.com)  
-- 🌐 **Portfólio**: [Meu GitHub](https://github.com/rnlcatelli)  
 - 💼 **LinkedIn**: [Rian Locatelli](https://www.linkedin.com/in/rian-locatelli-225440275)  
 
 ---
 
 ## 🌟 Outros Interesses  
-- Experiência com impressão 3D  
+- **Impressão 3D**: Experiência com modelagem e produção.  
 - 📸 **Instagram**: [@moldare.caibi](https://www.instagram.com/moldare.caibi)  
-
----
+- 🎨 **Figma**: [Pizzaria Web - Protótipo](https://www.figma.com/proto/DqPjoQxoWrqNINuAPbPZLa/Pizzaria-Web?node-id=2-3&starting-point-node-id=153%3A61&t=rRfYeHwzmBTlU1Tf-1)  
